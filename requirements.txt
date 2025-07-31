@@ -1,0 +1,14 @@
+auto-circuit==1.0.1
+pandas==1.5.3
+jaxtyping==0.2.34
+matplotlib==3.9.2
+nbformat==5.10.4
+numpy==1.26.4
+rich==12.6.0
+tqdm==4.66.5
+circuitsvis==1.43.3
+ipykernel==6.29.5
+scikit-learn==1.6.0
+seaborn==0.13.2
+transformer-lens==2.8.1
+tqdm==4.66.5

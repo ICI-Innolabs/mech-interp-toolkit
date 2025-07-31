@@ -1,0 +1,14 @@
+.vscode/*
+__pycache__/*
+data/__pycache__/*
+data/ioi/__pycache__/*
+data/ioi/ioi_*.json
+!data/ioi/ioi_vanilla_template_prompts.json
+garbage/*
+src/__pycache__/*
+src/observational/__pycache__/*
+src/circuit_discovery/__pycache__/*
+src/patching/__pycache__/*
+src/patching/path_patching_ioi.py
+src/patching/utils.py
+src/plot_utils.py
